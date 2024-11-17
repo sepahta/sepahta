@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sepahta
+- 👋 Hi
 - 👀 I’m mani nezafat 
-- 🌱 I’m currently learning php & nodejs 
-- 💞️ I’m looking to collaborate on projects
+
 
 
 <!---
